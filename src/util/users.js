@@ -33,7 +33,7 @@ const get_user = function (id) {
     // users.forEach((user) => {
     //     console.log('forEach\n', user)
     // })
-    console.log(index, users.at(index));
+    // console.log(index, users.at(index));
     // if (index != -1) 
     return users[index];
 
